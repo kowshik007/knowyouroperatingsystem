@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+ruby "2.2.1"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
@@ -31,6 +31,7 @@ gem 'simple_form'
 gem 'ckeditor', '~> 4.1.2'
 gem 'carrierwave'
 gem 'mini_magick'
+gem 'rails_12factor'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
